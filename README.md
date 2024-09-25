@@ -1,10 +1,14 @@
 # Hi there
 
 # About me 
-I am ankita , an aspiring web developer ,pursuing my Bachelor's in Computer Application.
+I am ankita , an aspiring web developer, currently pursuing MCA at Indira Gandhi Delhi Technical University for Women
 
 # Technologies known
 HTML, CSS, JAVASCRIPT
+CSS framework- Bootstrap
+
+# Languages known
+C,C++,Java
 
 I am currently working on backend technologies.
 <!---
