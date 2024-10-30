@@ -8,7 +8,7 @@ HTML, CSS, JAVASCRIPT
 CSS framework- Bootstrap
 
 # Languages known
-C,C++,Java
+C,C++,Java,python
 
 I am currently working on backend technologies.
 <!---
