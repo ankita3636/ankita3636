@@ -6,6 +6,7 @@ I am ankita , an aspiring web developer, currently pursuing MCA at Indira Gandhi
 # Technologies known
 HTML, CSS, JAVASCRIPT
 CSS framework- Bootstrap
+Machine Learning
 
 # Languages known
 C,C++,Java,python
